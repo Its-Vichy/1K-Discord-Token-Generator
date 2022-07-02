@@ -30,3 +30,9 @@ BTC: bc1q0592qckkc5z9ah3r7t0yhg7u35fcwadf3ruxc7
 ETH: 0xf0723DB8720283735290BCa39A361428582a86b0
 SOL: PtuG7ebcY14summ3QArSinUHcf6ZXJEcZHkLzWJQkMT
 USDT (ETH network): 0xf0723DB8720283735290BCa39A361428582a86b0
+
+Somes pics:
+  - https://media.discordapp.net/attachments/982690935458644079/992583929276141608/unknown.png
+  - https://cdn.discordapp.com/attachments/982690935458644079/992584078220083230/unknown.png
+  - https://media.discordapp.net/attachments/982690935458644079/992584162320072724/unknown.png
+  - https://media.discordapp.net/attachments/992219005567901756/992439695487275008/unknown.png
