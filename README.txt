@@ -1,4 +1,4 @@
-Hi Homies, release when i got 50 stars + 450 Followers.
+Hi Homies, release when i got 70 stars + 450 Followers. (kinda cringe bot: https://cdn.discordapp.com/attachments/990167909458386984/992843833966600282/unknown.png)
 The generator is written in Golang, Python, Javascript (yes).
 
 
