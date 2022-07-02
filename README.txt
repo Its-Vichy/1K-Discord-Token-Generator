@@ -1,4 +1,4 @@
-Hi Homies, release when i got 50 stars.
+Hi Homies, release when i got 50 stars + 450 Followers.
 The generator is written in Golang, Python, Javascript (yes).
 
 
@@ -18,7 +18,7 @@ I can already make my solver for free for everyone here is all the API hosted on
     -> Image link is that: https://imgs.hcaptcha.com/FLyfrp/cXRi14Lj3ljqSIuJU=TWBemWgcdI+4CY2gLongUrlYouCareLol
   
   #2: HCaptcha solver:
-    -> http://node-ip/random-string-here?site_key=site_key_here&proxy=proxy_here
+    -> http://node-ip:3000/random-string-here?site_key=site_key_here&proxy=proxy_here
     -> Discord's /register endpoint site key: 4c672d35-0701-42b2-88c3-78380b0db560
     -> Proxy format: ip:port or user:pass@ip:port.
 
