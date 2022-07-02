@@ -21,3 +21,12 @@ I can already make my solver for free for everyone here is all the API hosted on
     -> http://node-ip/random-string-here?site_key=site_key_here&proxy=proxy_here
     -> Discord's /register endpoint site key: 4c672d35-0701-42b2-88c3-78380b0db560
     -> Proxy format: ip:port or user:pass@ip:port.
+
+Thanks for supporting me, imagine all skid who resold this like other gen, imagine all people who sell gen for 5k. 
+Just give me a cookie this will be helpfull to provide more content <3
+
+LTC: LNgVWfVbCwhGAQtKAiMSip3XMPPuz8RTV4
+BTC: bc1q0592qckkc5z9ah3r7t0yhg7u35fcwadf3ruxc7
+ETH: 0xf0723DB8720283735290BCa39A361428582a86b0
+SOL: PtuG7ebcY14summ3QArSinUHcf6ZXJEcZHkLzWJQkMT
+USDT (ETH network): 0xf0723DB8720283735290BCa39A361428582a86b0
